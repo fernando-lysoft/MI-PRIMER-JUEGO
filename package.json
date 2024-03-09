@@ -1,0 +1,24 @@
+{
+  "name": "mi-primer-juego",
+  "version": "1.0.0",
+  "description": "Este es un pryecto haciendo mi primer juego usan Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript",
+    "mi",
+    "primer",
+    "juego",
+    "fernando"
+  ],
+  "author": "Fernando Huertas",
+  "license": "ISC",
+  "dependencies": {
+    "es-dev-server": "^2.1.0",
+    "phaser": "^3.80.1"
+  }
+}
